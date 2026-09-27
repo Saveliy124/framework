@@ -2,7 +2,7 @@
 
 import unittest
 
-from main import (
+from valuation import (
     calculate_estimated_value,
     calculate_service_fee,
     get_condition_multiplier,
